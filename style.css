@@ -67,7 +67,7 @@ body{
     background: rgba(255, 255, 255, 0.66);
     border-radius: 7px;
     backface-visibility: hidden;
-    transition: transform 0.25 linear;
+    transition: transform 0.25s linear;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 .card .front-view span{
